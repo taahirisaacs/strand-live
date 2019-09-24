@@ -4,6 +4,7 @@
   "accent_color": "blue",
   "header": {
     "title": "Strand Private Academy",
+    "logo_img": "/images/bitmap.jpg",
     "has_nav": true
   },
   "footer": {
